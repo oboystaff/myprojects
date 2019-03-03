@@ -1,2 +1,2 @@
 # myprojects
-This was website was developed for chipscare company located in Kumasi Ghana.
+This website was developed for chipscare company located in Kumasi Ghana opposite Kumasi Technical University.
